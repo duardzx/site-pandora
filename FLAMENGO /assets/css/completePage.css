@@ -1,0 +1,14 @@
+
+.barra-rosa{
+    background-color: #ffcad4;
+    height: 3px;
+    width: 100%;
+}
+.text-red{
+    color: red;
+    font-weight: bold;
+}
+.botao-rosa{
+    background-color: #ffcad4;
+    color: black;
+}
